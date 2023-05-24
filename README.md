@@ -47,7 +47,6 @@ This repository contains simple react apps for learning purposes
     export default defineConfig({
     server: { port: 3000 },
     });
-
     ```
 
 5. Execute the application
